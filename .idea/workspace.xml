@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e16e5d6d-d828-4bd3-9265-26de37e4f31b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/blockly_accessible_uncompressed.js" beforeDir="false" afterPath="$PROJECT_DIR$/blockly_accessible_uncompressed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blockly_compressed.js" beforeDir="false" afterPath="$PROJECT_DIR$/blockly_compressed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blockly_uncompressed.js" beforeDir="false" afterPath="$PROJECT_DIR$/blockly_uncompressed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/logic.js" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/logic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/code/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/demos/code/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/code/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demos/code/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/codelab/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demos/codelab/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/codelab/app/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/demos/codelab/app/scripts/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/fixed/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demos/fixed/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/toolbox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demos/toolbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ab.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/az.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/az.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ba.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ba.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/bcc.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/bcc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/be-tarask.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/be-tarask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/be.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/be.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/bg.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/bg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/bn.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/bn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/br.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/cs.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/cs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/da.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/de.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/diq.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/diq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/dty.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/dty.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/el.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/el.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/en-gb.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/en-gb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/eo.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/eo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/es.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/et.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/et.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/eu.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/eu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/fa.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/fa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/fi.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/fi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/gl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/gor.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/gor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ha.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/he.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/he.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/hi.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/hi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/hrx.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/hrx.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/hu.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/hu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/hy.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/hy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ia.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ia.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/id.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/id.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ig.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/is.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/is.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/it.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/it.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/kab.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/kab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/lb.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/lb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/lki.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/lki.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/lo.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/lo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/lrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/lrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/lt.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/lt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/lv.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/lv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/mk.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/mk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/mnw.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/mnw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ms.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/oc.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/oc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/pl.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/pl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/pms.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/pms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/pt-br.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/pt-br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/pt.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/pt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ro.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/sc.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/sc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/sd.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/sd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/shn.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/shn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/sk.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/sk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/skr-arab.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/skr-arab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/sl.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/sl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/sq.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/sq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/sr-latn.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/sr-latn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/sr.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/sr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/sv.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/sv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ta.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ta.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/tcy.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/tcy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/te.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/te.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/th.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/th.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/tl.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/tl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/tlh.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/tlh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/tr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ug-arab.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ug-arab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/uk.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/uk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/ur.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/ur.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/vi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/xmf.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/xmf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/yo.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/yo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/zh-hans.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/zh-hans.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/js/zh-hant.js" beforeDir="false" afterPath="$PROJECT_DIR$/msg/js/zh-hant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/json/constants.json" beforeDir="false" afterPath="$PROJECT_DIR$/msg/json/constants.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/json/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/msg/json/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/json/qqq.json" beforeDir="false" afterPath="$PROJECT_DIR$/msg/json/qqq.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msg/json/synonyms.json" beforeDir="false" afterPath="$PROJECT_DIR$/msg/json/synonyms.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demos/code/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="74" column="23" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="23" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blocks/loops.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5712">
+              <caret line="336" column="7" selection-start-line="336" selection-start-column="7" selection-end-line="336" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demos/code/Parallelisation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4250">
+              <caret line="250" column="57" selection-start-line="250" selection-start-column="57" selection-end-line="250" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logic</find>
+      <find>math</find>
+      <find>xml</find>
+      <find>id</find>
+      <find>compare</find>
+      <find>blocklyDiv</find>
+      <find>if</find>
+      <find>div</find>
+      <find>run</find>
+      <find>parall</find>
+      <find>bitasha</find>
+      <find>body</find>
+      <find>demo</find>
+      <find>question</find>
+      <find>task</find>
+      <find>details</find>
+      <find>main.</find>
+      <find>blockly-d</find>
+      <find>&lt;--</find>
+      <find>quest</find>
+      <find>scr</find>
+      <find>src=</find>
+      <find>scree</find>
+      <find>logi</find>
+      <find>dyna</find>
+      <find>loop</find>
+      <find>code</find>
+      <find>pos</find>
+      <find>java</find>
+      <find>posix</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/blockly_uncompressed.js" />
+        <option value="$PROJECT_DIR$/generators/javascript/Parallel_Construct.js" />
+        <option value="$PROJECT_DIR$/demos/code/code.js" />
+        <option value="$PROJECT_DIR$/demos/blockfactory/workspacefactory/wfactory_init.js" />
+        <option value="$PROJECT_DIR$/workspace-Parallel-Construct-Bitasha.js" />
+        <option value="$PROJECT_DIR$/demos/toolbox/index.html" />
+        <option value="$PROJECT_DIR$/blocks/logic.js" />
+        <option value="$PROJECT_DIR$/blocks/workspace-Parallel-Construct-Bitasha.js" />
+        <option value="$PROJECT_DIR$/blocks/parallel_construct.js" />
+        <option value="$PROJECT_DIR$/generators/javascript/logic - Copy.js" />
+        <option value="$PROJECT_DIR$/demos/code/test-parallel.js" />
+        <option value="$PROJECT_DIR$/demos/codelab/app/index.html" />
+        <option value="$PROJECT_DIR$/demos/codelab/app/scripts/main.js" />
+        <option value="$PROJECT_DIR$/demos/codelab/app/app/index-Copy-Bits.html" />
+        <option value="$PROJECT_DIR$/demos/codelab/scripts/main.js" />
+        <option value="$PROJECT_DIR$/../../Blockly-Game for Assignment/index.html" />
+        <option value="$PROJECT_DIR$/demos/code/index.html" />
+        <option value="$PROJECT_DIR$/demos/code/Parallelisation.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.idea/blockly.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/dictionaries/Manisha.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="692" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Blockly-Game for Assignment/index.html" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/blockly/demos/code/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e16e5d6d-d828-4bd3-9265-26de37e4f31b" name="Default Changelist" comment="" />
+      <created>1557093461738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557093461738</updated>
+      <workItem from="1557093472166" duration="2159000" />
+      <workItem from="1557975736832" duration="2158000" />
+      <workItem from="1557992806553" duration="24442000" />
+      <workItem from="1558166452283" duration="8578000" />
+      <workItem from="1558286898188" duration="1421000" />
+      <workItem from="1558300012163" duration="582000" />
+      <workItem from="1558402984833" duration="1225000" />
+      <workItem from="1559471894585" duration="12500000" />
+      <workItem from="1559610671174" duration="631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53696000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.022692889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="SciView" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demos/fixed/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockly_compressed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blockly_uncompressed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/code/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/generators/Parallel-Construct-Bitasha (1).js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/javascript/variables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/javascript/loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/blockfactory/workspacefactory/wfactory_init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="211" column="29" selection-start-line="211" selection-start-column="25" selection-end-line="211" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/javascript/Parallel_Construct.js" />
+    <entry file="file://$PROJECT_DIR$/blocks/variables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2541" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workspace-Parallel-Construct-Bitasha.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/toolbox/toolbox-Parallel-Construct-Bitasha.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-321">
+          <caret column="44" selection-start-column="42" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/workspace-Parallel-Construct-Bitasha.js" />
+    <entry file="file://$PROJECT_DIR$/demos/blockfactory/workspacefactory/wfactory_generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-850" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/logic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/parallel_construct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/blockfactory/workspacefactory/workspace-Parallel-Construct-Bitasha.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/javascript/logic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="26" column="12" selection-start-line="26" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/blockfactory/blocks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4643">
+          <caret line="346" column="19" selection-start-line="346" selection-start-column="19" selection-end-line="346" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/toolbox/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5292">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generators/javascript/logic - Copy.js" />
+    <entry file="file://$PROJECT_DIR$/demos/code/parallel.js-master/parallel.js-master/lib/index.js" />
+    <entry file="file://$PROJECT_DIR$/demos/code/test-parallel.js" />
+    <entry file="file://$PROJECT_DIR$/demos/codelab/app/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/codelab/app/app/index-Copy-Bits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#xml#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/codelab/scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="82" column="6" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/codelab/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="7" selection-end-line="426" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../index.html" />
+    <entry file="file://$PROJECT_DIR$/appengine/index.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Blockly-Game for Assignment/index.html" />
+    <entry file="file://$PROJECT_DIR$/demos/code/code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="184" column="5" selection-start-line="184" selection-start-column="5" selection-end-line="184" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/code/workspace-Parallel-Construct-Bitasha.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Genetic Algorithm/Genetic-Algorithm-Platform-master/Genetic-Algorithm-Platform-master/source/Environment.js" />
+    <entry file="file://$PROJECT_DIR$/../../Genetic Algorithm/Genetic-Algorithm-Platform-master/Genetic-Algorithm-Platform-master/sample-problems/AlgebraBlackBox/Environment.js" />
+    <entry file="file://$PROJECT_DIR$/demos/code/workspace-Questions-Bitasha.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5712">
+          <caret line="336" column="7" selection-start-line="336" selection-start-column="7" selection-end-line="336" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/code/Parallelisation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4250">
+          <caret line="250" column="57" selection-start-line="250" selection-start-column="57" selection-end-line="250" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/code/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="74" column="23" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
